@@ -1,0 +1,3 @@
+../Core/Src/lcd_effect.c:14:6:startlcd	1
+../Core/Src/lcd_effect.c:26:6:runlcd	9
+../Core/Src/lcd_effect.c:90:6:readtouch	31

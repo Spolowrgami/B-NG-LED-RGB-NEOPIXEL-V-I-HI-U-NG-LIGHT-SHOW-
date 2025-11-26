@@ -1,0 +1,5 @@
+../Core/Src/LCD_Touch.c:24:16:SpiTransfer	32	static
+../Core/Src/LCD_Touch.c:42:13:GetPointRaw	72	static
+../Core/Src/LCD_Touch.c:126:6:TouchIsTouched	16	static
+../Core/Src/LCD_Touch.c:132:6:TouchGetCalibratedPoint	40	static
+../Core/Src/LCD_Touch.c:170:6:TouchCalibrate	64	static

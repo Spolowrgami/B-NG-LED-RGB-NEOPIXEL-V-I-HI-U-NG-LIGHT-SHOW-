@@ -1,0 +1,15 @@
+../Core/Src/Setup_LCD_Status.c:21:6:tetrisDrawStatus	8	static
+../Core/Src/Setup_LCD_Status.c:29:6:tetrisDrawDownButton	48	static
+../Core/Src/Setup_LCD_Status.c:37:6:tetrisUpdateDownButton	16	static
+../Core/Src/Setup_LCD_Status.c:45:6:UpdateFFTButton	40	static
+../Core/Src/Setup_LCD_Status.c:61:6:UpdateEF1Button	40	static
+../Core/Src/Setup_LCD_Status.c:67:6:UpdateEF2Button	40	static
+../Core/Src/Setup_LCD_Status.c:73:6:UpdateEF3Button	40	static
+../Core/Src/Setup_LCD_Status.c:79:6:UpdateEF4Button	40	static
+../Core/Src/Setup_LCD_Status.c:90:6:giao_dien_batdau	16	static
+../Core/Src/Setup_LCD_Status.c:96:6:giao_dien_1	16	static
+../Core/Src/Setup_LCD_Status.c:102:6:giao_dien_2	16	static
+../Core/Src/Setup_LCD_Status.c:108:15:testDrawImage	40	static
+../Core/Src/Setup_LCD_Status.c:131:6:LCD_DrawRoundIcon	40	static
+../Core/Src/Setup_LCD_Status.c:146:15:testDrawImage2	40	static
+../Core/Src/Setup_LCD_Status.c:174:15:testDrawImage1	40	static
